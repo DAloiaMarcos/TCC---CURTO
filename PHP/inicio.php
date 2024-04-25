@@ -70,13 +70,24 @@
 
             <div class="cards">
                 <span class="missão">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt alias debitis odio amet, vel officiis esse. Sit recusandae quasi libero consequuntur magnam perferendis reiciendis, aliquid distinctio veniam esse quae consequatur.
+                Na CURTO, nossa missão é capacitar indivíduos para que enfrentem os desafios de um mundo em constante transformação,
+                proporcionando um sistema de ensino dinâmico e acessível que não apenas prepara para oportunidades profissionais,
+                mas também promove uma compreensão mais profunda das mudanças culturais e sociais. Estamos comprometidos em fornecer
+                recursos educacionais de alta qualidade, adaptados às necessidades individuais de aprendizado de nossos alunos, 
+                ajudando-os a alcançar seu pleno potencial e contribuir positivamente para a sociedade
                 </span>
                 <span class="visão">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, cum illo reiciendis dolores delectus facilis officia voluptate quod, aperiam vero ullam optio repellendus, at totam quia voluptates expedita dolore! Rerum!
+                Nosso objetivo na CURTO é ser reconhecidos como líderes no fornecimento de um sistema de ensino inovador e adaptável,
+                que inspire e capacite nossos alunos a se tornarem agentes de mudança em suas áreas de atuação.
+                Buscamos constantemente a excelência acadêmica e tecnológica, ampliando nosso alcance e promovendo uma comunidade
+                de aprendizado inclusiva e colaborativa.
                 </span>
                 <span class="valor">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, iure! Asperiores totam soluta cupiditate consequatur harum, fugit nam. Dignissimos laborum quam, voluptates commodi perferendis fuga velit. Non incidunt atque laborum.
+               1. <strong>Inovação</strong>: Abraçamos a mudança e buscamos constantemente novas formas de ensino e aprendizado.
+               2. <strong>Excelência</strong>: Comprometemo-nos com a qualidade em tudo o que fazemos, desde o conteúdo dos cursos até o suporte ao aluno.
+               3. <strong>Adaptabilidade</strong>: Reconhecemos a diversidade de necessidades e estilos de aprendizagem, adaptando nossos métodos para atender a cada aluno.
+               4. <strong>Empatia</strong>: Valorizamos a compreensão e o apoio mútuo dentro de nossa comunidade de aprendizado.
+               5. <strong>Responsabilidade Social</strong>: Buscamos não apenas o sucesso individual, mas também o impacto positivo na sociedade, promovendo a equidade e a justiça em todas as nossas iniciativas.
                 </span>
             </div>
 
