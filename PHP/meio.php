@@ -6,8 +6,13 @@
         <div><p>Queremos te ajudar com a maneira mais <strong>CURTA</strong>a se aprimorar!</p></div>
         <div><p>Com os melhores cursos que você pode encontrar <strong>gratuitamente</strong></p></div>
 
-        <div><input type="button" value="Cadastre-se" class=""></div>
-        <div><input type="button" value="Conheça"></div>
+        <div>
+            <a href=""><input type="button" value="Cadastre-se" class=""></a>
+        </div>
+
+        <div>
+            <a href=""><input type="button" value="Conheça"></a>
+        </div>
         <!-- Triangulo -->
         <div class="triangulo_direita"></div>
         <!-- PARTE INFERIOR antes da mudança de section, -->
@@ -57,7 +62,7 @@
             <div class="container_meialua">
                 <p><strong>APRENDA</strong></p>
                   <!-- texto acrônimo -->
-
+                
             </div>
         </div>
     </section>

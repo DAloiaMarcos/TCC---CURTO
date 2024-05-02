@@ -24,16 +24,10 @@ include "PHP/topo.php"
         }
         else{
             include "PHP/meio.php";
-            include "PHP/rodape.php";
         }
 
     ?>
 </div>
 
-<div class="absoluta">
-        <?php
-            include "PHP/rodape.php";
-        ?>
-</div>
 
 
