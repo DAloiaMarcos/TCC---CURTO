@@ -8,7 +8,7 @@ include "PHP/topo.php"
             switch($p){
                 case 1: 
                     include "PHP/meio.php";
-                    include "PHP/rodape.php";
+                
                     break;
                 case 2:
                     include "PHP/login.php"; 
@@ -18,7 +18,7 @@ include "PHP/topo.php"
                     break;
                 default: 
                     include "PHP/meio.php";
-                    include "PHP/rodape.php";
+                    
                     break;        
             }
         }
@@ -29,5 +29,10 @@ include "PHP/topo.php"
     ?>
 </div>
 
+<div class="absolute">
+        <?php
+            include "PHP/rodape.php";
+        ?>
+</div>
 
 
