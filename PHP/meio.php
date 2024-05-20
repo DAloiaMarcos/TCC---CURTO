@@ -1,4 +1,5 @@
-<section id="">
+<link rel="stylesheet" href="CSS/meio.css">
+<section id="section1-home">
         <!-- PARTE SUPERIOR textos e botão cad e log -->
         <!-- Triangulo -->
         <div class="triangulo_esquerda"></div>

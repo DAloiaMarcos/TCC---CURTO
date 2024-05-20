@@ -6,15 +6,101 @@
 }
 
 .rodape {
-    background: rgb(255, 0, 0);
+    background: #010B13;
     margin-inline: 3rem;
     margin-top: 2rem;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 103px;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    height: 50rem;
 }
 
-.container {
+.texto-container1-rodape {
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    margin-top: 3em;
+}
+
+.rodape-2024 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 128px;
+    color: #343BE5;
+    margin-top: 1.5em;
+}
+
+.texto-container2-rodape {
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+}
+
+.contato {
+    color: #FF4588;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.numero-tel{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3em;
+}
+
+.numero-tel a{
+    color: #FAFAFA;
+}
+
+.container1-rodape {
     display: flex;
     flex-direction: column;
-    background: red;
+}
+
+.container2-rodape {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 31rem;
+}
+
+.politica-rodape {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    margin-top: 7em;
+    display: flex;
+    flex-wrap: wrap;
+    color: #FAFAFA;
+    justify-content: space-between;
+}
+
+.politica-rodape p {
+    margin-top: .5em;
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+.politica-rodape a {
+    color: #FAFAFA;
 }
