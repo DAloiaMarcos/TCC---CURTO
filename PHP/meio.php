@@ -4,15 +4,20 @@
         <!-- Triangulo -->
         <div class="triangulo_esquerda"></div>
         <!-- TEXTOS E BOTÕES -->
-        <div><p>Queremos te ajudar com a maneira mais <strong>CURTA</strong>a se aprimorar!</p></div>
-        <div><p>Com os melhores cursos que você pode encontrar <strong>gratuitamente</strong></p></div>
+        <div class="alinhamento-section1-home">
+        <div class="section1-text1"><p>Queremos te <br>ajudar com a <br>maneira mais <br><strong class="texto-rosa">CURTA </strong>a se <br> aprimorar!</p></div>
+        <div class="section1-text2"><p>Com os melhores<br>cursos que você<br>pode encontrar<br><strong class="texto-rosa">gratuitamente</strong></p></div>
 
-        <div>
+        <!-- BOTÕES -->
+        <div class="section1-home-botao">
+        <div class="botao1-section1-home">
             <a href=""><input type="button" value="Cadastre-se" class=""></a>
         </div>
 
         <div>
             <a href=""><input type="button" value="Conheça"></a>
+        </div>
+        </div>
         </div>
         <!-- Triangulo -->
         <div class="triangulo_direita"></div>

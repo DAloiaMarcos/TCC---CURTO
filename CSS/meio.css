@@ -9,12 +9,60 @@
 
 #section1-home {
     background-color: #343BE5;
+    padding-top: 9em;
 
 }
 
 .triangulo_esquerda {
-    width: 300px;
-    border-top: 25px solid transparent;
-    border-bottom: 25px solid transparent;
-    border-left: 25px solid #FF4588;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 116em solid #FF4588;
+}
+
+.triangulo_direita{
+border-top: 100px solid transparent;
+border-bottom: 100px solid transparent;
+border-right: 116em solid #FF4588;
+}
+
+.section1-text1 {
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+}
+
+.section1-text2 {
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+.texto-rosa {
+    color: #FF4588;
+}
+
+.alinhamento-section1-home{
+    padding-inline: 3em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.section1-home-botao{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.botao1-section1-home {
+    background-color: #FAFAFA;
+    
 }
