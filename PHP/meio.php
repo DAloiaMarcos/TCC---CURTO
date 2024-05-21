@@ -10,12 +10,12 @@
 
         <!-- BOTÕES -->
         <div class="section1-home-botao">
-        <div class="botao1-section1-home">
-            <a href=""><input type="button" value="Cadastre-se" class=""></a>
+        <div class="">
+            <a href=""><input type="button" value="Cadastre-se" class="botao1-section1-home"></a>
         </div>
 
         <div>
-            <a href=""><input type="button" value="Conheça"></a>
+            <a href=""><input type="button" value="Conheça" class="botao2-section1-home"></a>
         </div>
         </div>
         </div>

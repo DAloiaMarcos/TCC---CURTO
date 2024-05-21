@@ -23,6 +23,7 @@
 border-top: 100px solid transparent;
 border-bottom: 100px solid transparent;
 border-right: 116em solid #FF4588;
+margin-top: 2rem;
 }
 
 .section1-text1 {
@@ -59,10 +60,32 @@ border-right: 116em solid #FF4588;
 .section1-home-botao{
     display: flex;
     flex-direction: column;
-    
+    justify-content: space-between;
 }
 
 .botao1-section1-home {
-    background-color: #FAFAFA;
-    
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    text-decoration: none;
+    color: #343BE5;
+    border: none;
+    width: 17.5rem;
+    height: 5rem;   
+    border-radius: 13px;
+}
+
+
+.botao2-section1-home {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    text-decoration: none;
+    color: #FF4588;
+    border: none;
+    width: 17.5rem;
+    height: 5rem;   
+    border-radius: 13px;
 }
