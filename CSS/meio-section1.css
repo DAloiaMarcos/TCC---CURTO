@@ -99,7 +99,103 @@
 .alinhamento2-section1-home {
     display: flex;
     flex-direction: column;
-    background-color: #343BE5;
-    padding-top: 18em;
+    background-color: #343BE5;  
     align-items: center;
 }
+
+.texto3-section1-home h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 48px;
+    margin-bottom: 43px;
+}
+
+.alinhamento3-section1-home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tab_social {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tab_social ul li {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tab_social strong{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 32px;
+}
+
+.tab_social p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    margin-left: -30px;
+}
+
+.tab_social img {
+    width: 71px;
+    height: 71px;
+    margin-inline: auto;
+    margin-bottom: 78px;
+}
+
+.tab_desempenho {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tab_desempenho ul li{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.tab_desempenho strong {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 32px;    
+}
+
+.tab_desempenho p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FAFAFA;
+    font-size: 24px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.tab_desempenho img {
+    width: 71px;
+    height: 71px;
+    margin-inline: auto;
+    margin-bottom: 57px;
+}
+
+.vl {
+    border-left: 6px solid #FAFAFA;
+    height: 398px;
+    margin-inline: 47px;
+  }

@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="CSS/meio.css">
+<link rel="stylesheet" href="CSS/meio-section1.css">
+<link rel="stylesheet" href="CSS/meio-section2.css">
 <section id="section1-home">
         <!-- PARTE SUPERIOR textos e botão cad e log -->
         <!-- Triangulo -->
@@ -20,32 +21,41 @@
         <!-- PARTE INFERIOR antes da mudança de section, -->
         <div class="alinhamento2-section1-home">
         <!-- Melhorar o seu -->
-        <div><h3>Melhorar o seu...</h3></div>
+        <div class="texto3-section1-home"><h3>Melhorar o seu...</h3></div>
         <!-- Social e Desempenho -->
+        <div class="alinhamento3-section1-home">
+        <div class="vl"></div>
         <div class="tab_social">
             <ul>
+
                 <li><p><strong>Social</strong></p></li>
-                <li><img src="" alt="estrelinha"></li>
-                <li><p>Mudando sua maneira de pensar socialmente!</p></li>
+                <li><img src="CSS\Assets\Star 1.png" alt="estrelinha"></li>
+                <li><p>Mudando sua maneira de <br>pensar socialmente!</p></li>
             </ul>
         </div>
+        <div class="vl"></div>
         <div class="tab_desempenho">
             <ul>
+                
                 <li><p><strong>Desempenho</strong></p></li>
-                <li><img src="" alt="estrelinha"></li>
-                <li><p>Te ajudando em seu desempenho no mundo dos negócios!</p></li>
+                <li><img src="CSS\Assets\Star 1.png" alt="estrelinha"></li>
+                <li><p>Te ajudando em seu <br>desempenho no mundo dos <br>negócios!</p></li>
             </ul>
+            </div>
+            <div class="vl"></div>
         </div>
         </div>
     </section>
 <!-- PARTE BRANCA COM DOIS CARDS -->
-    <section>
-        <div class="container">
+    <section class="section-home">
+        <div class="alinhamento1-section2-home">
         <div class="container_quad">
+            <div class="alinhamento2-section2-home">
             <div><h1>Para começar...</h1></div>
             <div>
                 <img src="../CSS/Assets/voice_selection.png" alt="comunica">
                 <p>Comunicação não violenta</p>
+            </div>
             </div>
             <div>
                 <img src="../CSS/Assets/computer.png" alt="informatica">
@@ -59,7 +69,7 @@
                 <img src="../CSS/Assets/groups.png" alt="social">
                 <p>Atualidades</p>
             </div>
-            
+            </div>
             <div class="estrelinha">
 
             </div>
@@ -68,7 +78,6 @@
                   <!-- texto acrônimo -->
                 
             </div>
-        </div>
     </section>
 
     <!-- PARTE ROSA COM CARDS missão,visão valor -->
