@@ -10,20 +10,18 @@
 #section1-home {
     background-color: #343BE5;
     padding-top: 9em;
-
 }
 
 .triangulo_esquerda {
-    border-top: 100px solid transparent;
-    border-bottom: 100px solid transparent;
-    border-left: 116em solid #FF4588;
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent;
+    border-left: 1920px solid #FF4588;
 }
 
 .triangulo_direita{
-border-top: 100px solid transparent;
-border-bottom: 100px solid transparent;
-border-right: 116em solid #FF4588;
-margin-top: 2rem;
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent;
+    border-right: 1920px solid #FF4588;
 }
 
 .section1-text1 {
@@ -32,7 +30,8 @@ margin-top: 2rem;
     font-weight: 700;
     font-style: normal;
     color: #FAFAFA;
-    font-size: 24px;
+    font-size: 40px;
+    margin-right: 4rem;
 }
 
 .section1-text2 {
@@ -41,7 +40,7 @@ margin-top: 2rem;
     font-weight: 700;
     font-style: normal;
     color: #FAFAFA;
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
 }
 
@@ -50,8 +49,8 @@ margin-top: 2rem;
     color: #FF4588;
 }
 
-.alinhamento-section1-home{
-    padding-inline: 3em;
+.alinhamento1-section1-home{
+    padding-inline: 170px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -61,6 +60,8 @@ margin-top: 2rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    top: -2rem;
+    height: 304px;
 }
 
 .botao1-section1-home {
@@ -71,9 +72,10 @@ margin-top: 2rem;
     text-decoration: none;
     color: #343BE5;
     border: none;
-    width: 17.5rem;
-    height: 5rem;   
+    width: 351px;
+    height: 107px;   
     border-radius: 13px;
+    margin-bottom: 45px;
 }
 
 
@@ -85,7 +87,19 @@ margin-top: 2rem;
     text-decoration: none;
     color: #FF4588;
     border: none;
-    width: 17.5rem;
-    height: 5rem;   
-    border-radius: 13px;
+    width: 351px;
+    height: 107px;   
+    border-radius: 16px;
+    margin-top: 45px;
+    top: -5rem;
+}
+
+/* SECTION 2 */
+
+.alinhamento2-section1-home {
+    display: flex;
+    flex-direction: column;
+    background-color: #343BE5;
+    padding-top: 18em;
+    align-items: center;
 }

@@ -4,24 +4,21 @@
         <!-- Triangulo -->
         <div class="triangulo_esquerda"></div>
         <!-- TEXTOS E BOTÕES -->
-        <div class="alinhamento-section1-home">
+        <div class="alinhamento1-section1-home">
         <div class="section1-text1"><p>Queremos te <br>ajudar com a <br>maneira mais <br><strong class="texto-rosa">CURTA </strong>a se <br> aprimorar!</p></div>
         <div class="section1-text2"><p>Com os melhores<br>cursos que você<br>pode encontrar<br><strong class="texto-rosa">gratuitamente</strong></p></div>
 
         <!-- BOTÕES -->
         <div class="section1-home-botao">
-        <div class="">
             <a href=""><input type="button" value="Cadastre-se" class="botao1-section1-home"></a>
-        </div>
 
-        <div>
             <a href=""><input type="button" value="Conheça" class="botao2-section1-home"></a>
-        </div>
         </div>
         </div>
         <!-- Triangulo -->
         <div class="triangulo_direita"></div>
         <!-- PARTE INFERIOR antes da mudança de section, -->
+        <div class="alinhamento2-section1-home">
         <!-- Melhorar o seu -->
         <div><h3>Melhorar o seu...</h3></div>
         <!-- Social e Desempenho -->
@@ -38,6 +35,7 @@
                 <li><img src="" alt="estrelinha"></li>
                 <li><p>Te ajudando em seu desempenho no mundo dos negócios!</p></li>
             </ul>
+        </div>
         </div>
     </section>
 <!-- PARTE BRANCA COM DOIS CARDS -->
