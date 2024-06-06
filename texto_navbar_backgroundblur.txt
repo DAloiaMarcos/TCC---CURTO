@@ -1,5 +1,0 @@
-https://blur-behind-nav.webflow.io/
-
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-

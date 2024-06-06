@@ -6,13 +6,13 @@
     
 
 <header class="header">
-    <a href="" class=""><img src="CSS\Assets\logo_navbar.png" alt="" class="logo"></a>
+    <a href="#" class=""><img src="CSS\Assets\logo_navbar.png" alt="" class="logo"></a>
 
 
     <nav class="navbar">
         <a href="">Cursos</a>
         <a href="">Palestras</a>
         <a href="">Nós</a>
-        <input class="bot_nav_entrar" type="button" value="entrar">
+        <a href="index.php?a=2"><input class="bot_nav_entrar" type="button" value="entrar"></a>
     </nav>
     </header>

@@ -2,19 +2,24 @@
 include "PHP/topo.php"
 ?>
 
-<div class="meio">
+<div class="mala">
     <?php 
-        if (isset($_GET['p'])){
-            switch($p){
+        if (isset($_GET['a'])){
+            switch($a){
                 case 1: 
                     include "PHP/meio.php";
-                
                     break;
                 case 2:
                     include "PHP/login.php"; 
                     break;
                 case 3:
                     include "PHP/cadastro.php";   
+                    break;
+                case 4:
+                    include "PHP/nos.php";
+                    break;
+                case 5: 
+                    include "PHP/cursos.php";
                     break;
                 default: 
                     include "PHP/meio.php";
@@ -27,9 +32,9 @@ include "PHP/topo.php"
         }
 
     ?>
-</div>
+</div>  
 
-<div class="absolute">
+<div class="absoluta">
         <?php
             include "PHP/rodape.php";
         ?>

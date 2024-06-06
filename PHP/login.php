@@ -13,7 +13,7 @@
         <input type="submit" value="Tudo pronto!">
         <p>Não possui uma conta ainda?cadastre-se!</p>
         <div class="linha_branca"></div>
-        <a href="index.php?p=3">
+        <a href="index.php?a=3">
             <input type="button" value="Cadastre-se">
         </a>
     </form>
