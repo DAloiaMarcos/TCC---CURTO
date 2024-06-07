@@ -5,6 +5,7 @@ include "PHP/topo.php"
 <div class="mala">
     <?php 
         if (isset($_GET['a'])){
+            $a = $_GET['a'];
             switch($a){
                 case 1: 
                     include "PHP/meio.php";
@@ -21,12 +22,16 @@ include "PHP/topo.php"
                 case 5: 
                     include "PHP/cursos.php";
                     break;
+                case 6:
+                    include "PHP/palestras.php";
+                    break;
                 default: 
                     include "PHP/meio.php";
                     
                     break;        
             }
         }
+    
         else{
             include "PHP/meio.php";
         }

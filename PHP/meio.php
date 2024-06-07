@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="CSS/meio-section1.css">
-<link rel="stylesheet" href="CSS/meio-section2.css">
+
 <section id="section1-home">
         <!-- PARTE SUPERIOR textos e botão cad e log -->
         <!-- Triangulo -->
@@ -11,9 +10,9 @@
 
         <!-- BOTÕES -->
         <div class="section1-home-botao">
-            <a href="../index.php?a=2"><input type="button" value="Cadastre-se" class="botao1-section1-home"></a>
+            <a href="index.php?a=2"><input type="button" value="Cadastre-se" class="botao1-section1-home"></a>
 
-            <a href="../index.php?a=4"><input type="button" value="Conheça" class="botao2-section1-home"></a>
+            <a href="index.php?a=4"><input type="button" value="Conheça" class="botao2-section1-home"></a>
         </div>
         </div>
         <!-- Triangulo -->

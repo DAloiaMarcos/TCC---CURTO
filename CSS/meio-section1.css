@@ -4,25 +4,27 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
 
+}
 
 #section1-home {
     background-color: #343BE5;
     padding-top: 9em;
 }
 
-.triangulo_esquerda {
+ .triangulo_esquerda {
     border-top: 150px solid transparent;
     border-bottom: 150px solid transparent;
-    border-left: 1920px solid #FF4588;
-}
+    border-left: 99vw solid #FF4588;
+} 
 
 .triangulo_direita{
     border-top: 150px solid transparent;
     border-bottom: 150px solid transparent;
-    border-right: 1920px solid #FF4588;
-}
+    border-right: 99vw solid #FF4588;
+} 
+
+
 
 .section1-text1 {
     margin-top: 20px;
