@@ -51,24 +51,25 @@
         <div class="container_quad">
             <div class="alinhamento2-section2-home">
             <div><h1>Para começar...</h1></div>
-            <div>
-                <img src="../CSS/Assets/voice_selection.png" alt="comunica">
+            
+            <div class="quebra-itens">
+                <img src="CSS/Assets/voice_selection.png" alt="comunica">
                 <p>Comunicação não violenta</p>
             </div>
-            </div>
-            <div>
-                <img src="../CSS/Assets/computer.png" alt="informatica">
+            
+            <div class="quebra-itens">
+                <img src="CSS/Assets/computer.png" alt="informatica">
                 <p>Informática básica</p>
             </div>
-            <div>
-                <img src="../CSS/Assets/local_atm.png" alt="economia">
+            <div class="quebra-itens">
+                <img src="CSS/Assets/local_atm.png" alt="economia">
                 <p>Controle econômico</p>
             </div>
-            <div>
-                <img src="../CSS/Assets/groups.png" alt="social">
+            <div class="quebra-itens">
+                <img src="CSS/Assets/groups.png" alt="social">
                 <p>Atualidades</p>
             </div>
-            </div>
+        </div>
             <div class="estrelinha">
 
             </div>
