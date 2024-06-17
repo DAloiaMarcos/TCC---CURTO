@@ -30,7 +30,7 @@
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
-    color: #fff;
+    color: #010B13;
     margin-left: 9rem;
 }
 
@@ -44,6 +44,7 @@
     background: none;
     padding-inline: 1rem;
     border-radius: .5rem;
-    border-color: #FF4588;
+    border-color: #343BE5;
     border-style: groove;
+    color: #343BE5;
 }
