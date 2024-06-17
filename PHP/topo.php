@@ -14,7 +14,7 @@
 <body>
 
 <header class="header">
-    <a href="index.php?a=1" class=""><img src="CSS\Assets\logo_navbar.png" alt="" class="logo"></a>
+    <a href="index.php?a=1" class=""><img src="CSS\Assets\CURTO.png" alt="" class="logo"></a>
 
 
     <nav class="navbar">

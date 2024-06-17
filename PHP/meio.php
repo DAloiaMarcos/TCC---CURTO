@@ -81,7 +81,7 @@
     </section>
 
     <!-- PARTE ROSA COM CARDS missão,visão valor -->
-    <section>
+    <section class="section3-home">
         <div class="container">
             <h1>SOBRE NÓS!</h1>
             <p>para ter um melhor entendimento sobre a curto</p>
