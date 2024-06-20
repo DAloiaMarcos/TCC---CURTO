@@ -30,6 +30,6 @@
         <p>Aproveite muito sua conta curto!</p>
     </div>
     <div class="imagem_Co">
-        <img src="../CSS/Assets/Co.png" alt="imagem-Co">
+        <img src="CSS/Assets/Co.png" alt="imagem-Co">
     </div>
 </div>
