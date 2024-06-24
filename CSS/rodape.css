@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --rosa: #FF4588;
+    --azul: #343BE5;
+    --branco: #FAFAFA;
+    --preto: #010B13;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -6,7 +14,7 @@
 }
 
 .rodape {
-    background: #010B13;
+    background: var(--preto);
     margin-inline: 3rem;
     margin-top: 2rem;
     border-top-left-radius: 1rem;
@@ -25,7 +33,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #FAFAFA;
+    color: var(--branco);
     font-size: 24px;
     margin-top: 3em;
 }
@@ -35,7 +43,7 @@
     font-weight: 700;
     font-style: normal;
     font-size: 128px;
-    color: #343BE5;
+    color: var(--azul);
     margin-top: 1.5em;
 }
 
@@ -44,12 +52,12 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #FAFAFA;
+    color: var(--branco);
     font-size: 24px;
 }
 
 .contato {
-    color: #FF4588;
+    color: var(--rosa);
     font-size: 32px;
     margin-bottom: 20px;
 }
@@ -58,7 +66,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #FAFAFA;
+    color: var(--branco);
     font-size: 24px;
     display: flex;
     flex-direction: row;
@@ -67,7 +75,7 @@
 }
 
 .numero-tel a{
-    color: #FAFAFA;
+    color: var(--branco);
 }
 
 .container1-rodape {
@@ -86,21 +94,21 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #FAFAFA;
+    color: var(--branco);
     font-size: 24px;
     margin-top: 7em;
     display: flex;
     flex-wrap: wrap;
-    color: #FAFAFA;
+    color: var(--branco);
     justify-content: space-between;
 }
 
 .politica-rodape p {
     margin-top: .5em;
-    color: #FAFAFA;
+    color: var(--branco);
     text-decoration: none;
 }
 
 .politica-rodape a {
-    color: #FAFAFA;
+    color: var(--branco);
 }

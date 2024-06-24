@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --rosa: #FF4588;
+    --azul: #343BE5;
+    --branco: #FAFAFA;
+    --preto: #010B13;
+}
+
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 
 .header {
     top: 0;
@@ -30,7 +38,7 @@
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
-    color: #010B13;
+    color: var(--preto);
     margin-left: 9rem;
 }
 
@@ -39,12 +47,12 @@
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
-    color: #fff;
+    color: var(--branco);
     margin-left: 9rem;
     background: none;
     padding-inline: 1rem;
     border-radius: .5rem;
-    border-color: #343BE5;
+    border-color: var(--azul);
     border-style: groove;
-    color: #343BE5;
+    color: var(--azul);
 }

@@ -25,21 +25,17 @@
         <div class="alinhamento3-section1-home">
         <div class="vl"></div>
         <div class="tab_social">
-            <ul>
 
-                <li><p><strong>Social</strong></p></li>
-                <li><img src="CSS\Assets\Star 1.png" alt="estrelinha"></li>
-                <li><p>Mudando sua maneira de <br>pensar socialmente!</p></li>
-            </ul>
+                <p><strong>Social</strong></p>
+                <img src="CSS\Assets\Star 1.png" alt="estrelinha">
+                <p>Mudando sua maneira de <br>pensar socialmente!</p>
         </div>
         <div class="vl"></div>
         <div class="tab_desempenho">
-            <ul>
                 
-                <li><p><strong>Desempenho</strong></p></li>
-                <li><img src="CSS\Assets\Star 1.png" alt="estrelinha"></li>
-                <li><p>Te ajudando em seu <br>desempenho no mundo dos <br>negócios!</p></li>
-            </ul>
+            <p><strong>Desempenho</strong></p>
+            <img src="CSS\Assets\Star 1.png" alt="estrelinha">
+            <p>Te ajudando em seu <br>desempenho no mundo dos <br>negócios!</p>
             </div>
             <div class="vl"></div>
         </div>
@@ -48,24 +44,22 @@
 <!-- PARTE BRANCA COM DOIS CARDS -->
     <section class="section-home">
         <div class="alinhamento1-section2-home">
+        <div class="alinhamento2-section2-home">
         <div class="container_quad">
-            <div class="alinhamento2-section2-home">
-            <div><h1>Para começar...</h1></div>
+                <h1>Para começar...</h1>
             
             <div class="quebra-itens">
                 <img src="CSS/Assets/voice_selection.png" alt="comunica">
                 <p>Comunicação não violenta</p>
-            </div>
             
-            <div class="quebra-itens">
                 <img src="CSS/Assets/computer.png" alt="informatica">
                 <p>Informática básica</p>
             </div>
+
             <div class="quebra-itens">
                 <img src="CSS/Assets/local_atm.png" alt="economia">
                 <p>Controle econômico</p>
-            </div>
-            <div class="quebra-itens">
+
                 <img src="CSS/Assets/groups.png" alt="social">
                 <p>Atualidades</p>
             </div>
@@ -73,6 +67,8 @@
             <div class="estrelinha">
 
             </div>
+        </div>
+        
             <div class="container_meialua">
                 <p><strong>APRENDA</strong></p>
                   <!-- texto acrônimo -->
