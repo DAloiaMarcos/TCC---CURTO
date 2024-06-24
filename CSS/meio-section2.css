@@ -33,7 +33,7 @@
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .container_quad h1{
@@ -58,7 +58,7 @@
 .quebra-itens {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .quebra-itens p{
