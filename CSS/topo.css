@@ -40,6 +40,7 @@
     text-decoration: none;
     color: var(--preto);
     margin-left: 9rem;
+    mix-blend-mode: exclusion;
 }
 
 .bot_nav_entrar {

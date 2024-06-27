@@ -33,7 +33,7 @@
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .container_quad h1{
@@ -49,12 +49,6 @@
     color: var(--branco);
 }
 
-.alinhamento2-section2-home {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
 .quebra-itens {
     display: flex;
     flex-direction: row;
@@ -67,4 +61,58 @@
     font-style: normal;
     color: var(--branco);  
     font-size: 24px;
+}
+
+.estrelinha{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_meialua{
+    background-color: var(--rosa);
+    width: 507px;
+    height: 810px;
+    border-top-left-radius: 670px;
+    border-top-right-radius: 670px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+.container_meialua p{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: var(--branco);
+}
+
+.container_meialua .aprenda{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 48px;
+    writing-mode: horizontal-tb;
+    /* text-orientation: upright; */
+}
+
+
+.txt-acronimo{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    display: flex;
+    width: 27px;
+}
+
+.alinhamento-acronimo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: 108px;
+    margin-top: -25px;
 }

@@ -44,7 +44,6 @@
 <!-- PARTE BRANCA COM DOIS CARDS -->
     <section class="section-home">
         <div class="alinhamento1-section2-home">
-        <div class="alinhamento2-section2-home">
         <div class="container_quad">
                 <h1>Para começar...</h1>
             
@@ -71,14 +70,27 @@
             </div>
         </div>
             <div class="estrelinha">
-
+                <img src="CSS\Assets\Star 2.png" alt="">
             </div>
-        </div>
+
         
             <div class="container_meialua">
-                <p><strong>APRENDA</strong></p>
+                <div class="acronimo">
+                <p class="aprenda"><strong>A P R E N D A</strong></p>
                   <!-- texto acrônimo -->
-                
+                <div class="alinhamento-acronimo">
+                  <div class="txt-acronimo"> <p>c<br>r<br>e<br>d<br>i<br>t<br>e</p></div>
+                  <div class="txt-acronimo"> <p>r<br>o<br>m<br>o<br>v<br>a</p></div>
+                  <div class="txt-acronimo"> <p>e<br>c<br>o<br>n<br>h<br>e<br>ç<br>a</p></div>
+                  <div class="txt-acronimo"> <p>s<br>t<br>u<br>d<br>e</p></div>
+                  <div class="txt-acronimo"> <p>o<br>v<br>i<br>d<br>a<br>d<br>e</p></div>
+                  <div class="txt-acronimo"> <p>i<br>g<br>a</p></div>
+                  <div class="txt-acronimo"> <p>m<br>p<br>l<br>i<br>e</p></div>
+                  </div>
+                  </div>
+                  <p class="explore">Explore a<br>
+                  <span>sua chance!</span></p>
+
             </div>
     </section>
 
