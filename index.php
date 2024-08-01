@@ -2,7 +2,7 @@
 include "PHP/topo.php"
 ?>
 <?php
-require_once "conexao.php";
+// require_once "conexao.php";
 ?> 
 <div class="mala">
     <?php 
