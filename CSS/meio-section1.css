@@ -19,6 +19,12 @@
     padding-top: 9em;
 }
 
+.section2-home {
+    background-color: var(--branco);
+    padding-top: 260px;
+    padding-inline: 170px;
+}
+
  .triangulo_esquerda {
     border-top: 150px solid transparent;
     border-bottom: 150px solid transparent;
@@ -30,8 +36,6 @@
     border-bottom: 150px solid transparent;
     border-right: 99vw solid var(--rosa);
 } 
-
-
 
 .section1-text1 {
     margin-top: 20px;
@@ -192,3 +196,196 @@
     border-radius: 10px;
   } 
 
+  .alinhamento1-section2-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_quad{
+    width: 50vw;
+    height: 51vw;
+    border-radius: 39px;
+    background-color: var(--azul);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.container_quad h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--branco);  
+    font-size: 2.5vw;
+
+}
+
+.container_quad p{
+    color: var(--branco);
+    
+}
+/* Imagens dentro do container_quad */
+.imagem_quad_png{
+    width: 7vw;
+}
+
+.quebra-itens {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.quebra-itens p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--branco);  
+    font-size: 24px;
+}
+/* controle de tamanho da estrela no meio */
+.estrelinha{
+    display: flex;
+    width: auto;
+    height:auto;
+    align-items: center;
+    justify-content: center;
+}
+.estrela_png{
+    width: 10vw;
+    height: 10vw;
+}
+
+/* container com acrônimo */
+.container_meialua{
+    background-color: var(--rosa);
+    width: 50vw;
+    height: 52vw;
+    border-top-left-radius: 670px;
+    border-top-right-radius: 670px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 4.6vw;
+    padding-bottom: 4vw;
+
+}
+
+.container_meialua p{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: var(--branco);
+}
+
+.container_meialua .aprenda{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 48px;
+    writing-mode: horizontal-tb;
+    /* text-orientation: upright; */
+}
+
+
+.txt-acronimo{
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    display: flex;
+    width: 27px;
+}
+
+.alinhamento-acronimo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: -5%;
+}
+
+.section3-home {
+    background-color: var(--branco);
+    padding-top: 364px;
+    padding-inline: 70px;
+}
+
+.container-section3{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-section3 h1, p{
+    text-align: center;
+    color: var(--rosa);
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 36px;
+}
+
+.container-section3 p{
+    text-align: center;
+    color: var(--rosa);
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.cards-section3-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cards-section3-home span{
+    width: 475px;
+    height: 654px;
+    border-radius: 30px;
+    padding: 25px;
+
+}
+
+.cards-section3-home span p{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.cards-section3-home span h1{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    color: var(--branco);
+}
+
+.card-missao-section3-home{
+    background-color: var(--preto);
+}
+
+.card-missao-section3-home p{
+    color: var(--branco);
+}
+
+.card-visao-section3-home{
+    background-color: var(--rosa);
+}
+
+.card-visao-section3-home p{
+    color: var(--preto);
+}
+
+.card-valor-section3-home{
+    background-color: var(--azul);
+}
+
+.card-valor-section3-home p{
+    color: var(--branco);
+}

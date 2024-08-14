@@ -42,7 +42,7 @@
         </div>
     </section>
 <!-- PARTE BRANCA COM DOIS CARDS -->
-    <section class="section-home">
+    <section class="section2-home">
         <div class="alinhamento1-section2-home">
         <div class="container_quad">
                 <h1>Para começar...</h1>
@@ -96,31 +96,35 @@
 
     <!-- PARTE ROSA COM CARDS missão,visão valor -->
     <section class="section3-home">
-        <div class="container">
+        <div class="container-section3">
             <h1>SOBRE NÓS!</h1>
             <p>para ter um melhor entendimento sobre a curto</p>
 
-            <div class="cards">
-                <span class="missão">
+            <div class="cards-section3-home">
+                <span class="card-missao-section3-home">
+                    <h1>Missão</h1><p>
                 Na CURTO, nossa missão é capacitar indivíduos para que enfrentem os desafios de um mundo em constante transformação,
                 proporcionando um sistema de ensino dinâmico e acessível que não apenas prepara para oportunidades profissionais,
                 mas também promove uma compreensão mais profunda das mudanças culturais e sociais. Estamos comprometidos em fornecer
                 recursos educacionais de alta qualidade, adaptados às necessidades individuais de aprendizado de nossos alunos, 
                 ajudando-os a alcançar seu pleno potencial e contribuir positivamente para a sociedade
-                </span>
-                <span class="visão">
+                </p></span>
+                <span class="card-visao-section3-home">
+                    <h1>Visão</h1><p>
                 Nosso objetivo na CURTO é ser reconhecidos como líderes no fornecimento de um sistema de ensino inovador e adaptável,
                 que inspire e capacite nossos alunos a se tornarem agentes de mudança em suas áreas de atuação.
                 Buscamos constantemente a excelência acadêmica e tecnológica, ampliando nosso alcance e promovendo uma comunidade
                 de aprendizado inclusiva e colaborativa.
-                </span>
-                <span class="valor">
+                </p></span>
+                <span class="card-valor-section3-home">
+                    <h1>Valores</h1>    
+                <p>
                1. <strong>Inovação</strong>: Abraçamos a mudança e buscamos constantemente novas formas de ensino e aprendizado.
                2. <strong>Excelência</strong>: Comprometemo-nos com a qualidade em tudo o que fazemos, desde o conteúdo dos cursos até o suporte ao aluno.
                3. <strong>Adaptabilidade</strong>: Reconhecemos a diversidade de necessidades e estilos de aprendizagem, adaptando nossos métodos para atender a cada aluno.
                4. <strong>Empatia</strong>: Valorizamos a compreensão e o apoio mútuo dentro de nossa comunidade de aprendizado.
                5. <strong>Responsabilidade Social</strong>: Buscamos não apenas o sucesso individual, mas também o impacto positivo na sociedade, promovendo a equidade e a justiça em todas as nossas iniciativas.
-                </span>
+               </p></span>
             </div>
 
         </div>
