@@ -33,6 +33,6 @@
         <p>Crie sua conta e aproveite tudo que podemos oferecer para te ajudar com sua carreira profissional:D</p>
     </div>
     <div class="imagem_Co">
-        <img src="CSS/Assets/CObonito.svg" alt="imagem-Co">
+        <img src="CSS/Assets/COrosabonito.svg" alt="imagem-Co">
     </div>
 </div>

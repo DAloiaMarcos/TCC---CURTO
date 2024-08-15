@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="CSS/rodape.css">
     <link rel="stylesheet" href="CSS/meio-section1.css">
     <link rel="stylesheet" href="CSS/meio-section2.css">
+    <link rel="stylesheet" href="curso.css">
 </head>
 <body>
 
