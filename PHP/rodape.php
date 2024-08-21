@@ -9,7 +9,7 @@
                 A plataforma que te ajuda a seguir <br>o caminho mais curto na sua <br>carreira
             </p>
         </span>
-        <span class="">
+        <span class="rodape-2024">
             <h1 class="rodape-2024">2024 &copy;</h1>
         </span>
     </div>
@@ -24,12 +24,12 @@
         </span>
         <br>
         <span class="numero-tel">
-            <p>14 9****-****</p>
-            <a href="#">Instagram</a>
+            <p>14 9****-****
+            <a href="#">Instagram</a></p>
         </span>
         <span class="politica-rodape">
-            <a href="#"><p>Feedbacks</p></a>
-            <a href="#"><p>Política de Privacidade</p></a>
+            <a href="#"><p>Feedbacks</a>
+            <a href="#">Política de Privacidade</a></p>
             <a href="#"><p>Política de Cookies</p></a>
         </span>
     </div>

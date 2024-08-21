@@ -28,7 +28,7 @@
     height: 50rem;
 }
 
-.texto-container1-rodape {
+.texto-container1-rodape p{
     margin-top: 20px;
     font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -38,7 +38,7 @@
     margin-top: 3em;
 }
 
-.rodape-2024 {
+.rodape-2024 h1{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -47,22 +47,23 @@
     margin-top: 1.5em;
 }
 
-.texto-container2-rodape {
+.texto-container2-rodape p{
     margin-top: 20px;
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
     color: var(--branco);
     font-size: 24px;
+    text-align: left;
 }
 
-.contato {
-    color: var(--rosa);
+.contato p{
+    color: var(--branco);
     font-size: 32px;
     margin-bottom: 20px;
 }
 
-.numero-tel{
+.numero-tel p{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -90,7 +91,7 @@
     width: 31rem;
 }
 
-.politica-rodape {
+.politica-rodape p{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -101,6 +102,11 @@
     flex-wrap: wrap;
     color: var(--branco);
     justify-content: space-between;
+    padding-bottom: 1.5em;
+}
+
+.politica-rodape{
+    margin-top: 8em;
 }
 
 .politica-rodape p {
