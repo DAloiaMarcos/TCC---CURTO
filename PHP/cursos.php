@@ -6,13 +6,13 @@
         </div>
         <div class="courses_list">
             <ul class="category_list">
-                <li class="category"><a href="">Todos</a></li>
-                <li class="category"><a href="">Mais procurados</a></li>
-                <li class="category"><a href="">Desenvolvimento pessoal</a></li>
-                <li class="category"><a href="">Melhore na comunicação!</a></li>
-                <li class="category"><a href="">Linguagens</a></li>
-                <li class="category"><a href="">Segurança</a></li>
-                <li class="category"><a href="">Descubra!</a></li>
+                <li class="category"><a href="#">Todos</a></li>
+                <li class="category"><a href="#">Mais procurados</a></li>
+                <li class="category"><a href="#">Desenvolvimento pessoal</a></li>
+                <li class="category"><a href="#">Melhore na comunicação!</a></li>
+                <li class="category"><a href="#">Linguagens</a></li>
+                <li class="category"><a href="#">Segurança</a></li>
+                <li class="category"><a href="#">Descubra!</a></li>
             </ul>
         </div>
     </span>
@@ -54,6 +54,7 @@
 
 const cardContainer = document.querySelector(".card-container");
 const searchbar = document.querySelector("#searchbar");
+
 
 const displayData = data => {
     cardContainer.innerHTML = "";

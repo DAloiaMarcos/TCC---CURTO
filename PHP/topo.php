@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="CSS/rodape.css">
     <link rel="stylesheet" href="CSS/meio-section1.css">
     <link rel="stylesheet" href="CSS/meio-section2.css">
-    <link rel="stylesheet" href="curso.css">
+    <link rel="stylesheet" href="CSS/curso.css">
+    <!-- SCRIPTS JQUERY ETC -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
 

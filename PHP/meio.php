@@ -49,22 +49,22 @@
             
             <div class="quebra-itens">
                 <div>
-                <img class="imagem_quad_png" src="CSS/Assets/voice_selection.png" alt="comunica">
+                <img class="imagem_quad_png" src="CSS/Assets/voice_selection.svg" alt="comunica">
                 <p>Comunicação<br>não violenta</p>
                 </div>
                 <div>
-                <img class="imagem_quad_png" src="CSS/Assets/computer.png" alt="informatica">
+                <img class="imagem_quad_png" src="CSS/Assets/computer.svg" alt="informatica">
                 <p>Informática<br>básica</p>
                 </div>
             </div>
 
             <div class="quebra-itens">
             <div>
-                <img class="imagem_quad_png" src="CSS/Assets/local_atm.png" alt="economia">
+                <img class="imagem_quad_png" src="CSS/Assets/local_atm.svg" alt="economia">
                 <p>Controle<br>econômico</p>
                 </div>
                 <div>
-                <img class="imagem_quad_png" src="CSS/Assets/groups.png" alt="social">
+                <img class="imagem_quad_png" src="CSS/Assets/groups.svg" alt="social">
                 <p>Atualidades</p>
                 </div>
             </div>

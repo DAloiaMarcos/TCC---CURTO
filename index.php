@@ -2,7 +2,7 @@
 include "PHP/topo.php"
 ?>
 <?php
-// require_once "conexao.php";
+require_once "conection.php";
 ?> 
 <div class="mala">
     <?php 
@@ -19,7 +19,7 @@ include "PHP/topo.php"
                     include "PHP/cadastro.php";   
                     break;
                 case 4:
-                    include "PHP/nos.php";
+                    include "PHP/cursos.php";
                     break;
                 case 5: 
                     include "PHP/cursos.php";
